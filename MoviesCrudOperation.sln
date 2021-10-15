@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesCrudOperation", "MoviesCrudOperation\MoviesCrudOperation.csproj", "{1F84BEC2-7C4F-4006-B26D-4C1DCCFFAA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F84BEC2-7C4F-4006-B26D-4C1DCCFFAA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F84BEC2-7C4F-4006-B26D-4C1DCCFFAA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F84BEC2-7C4F-4006-B26D-4C1DCCFFAA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F84BEC2-7C4F-4006-B26D-4C1DCCFFAA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69AF96F-FA07-45E4-8307-78F4C1ED7012}
+	EndGlobalSection
+EndGlobal
